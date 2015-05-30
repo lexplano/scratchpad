@@ -1,0 +1,14 @@
+{
+  "name": "@lexplano/logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "text-to-svg": "^2.0.2"
+  }
+}
